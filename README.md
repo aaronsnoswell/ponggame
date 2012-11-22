@@ -8,4 +8,4 @@ It uses my simple canvas game engine, [jsge](https://github.com/aaronsnoswell/js
 
 Happy Coding!
 
-`Aaron Snoswell
+Aaron Snoswell
